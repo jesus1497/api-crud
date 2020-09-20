@@ -1,9 +1,19 @@
+Este proyecto se hizo para ver como funciona las api en react.js usando el video "CRUD con API REST en React JS (GET, POST, PUT, DELETE) | Tutorial en Español (2020)" del sig enlace https://www.youtube.com/watch?v=tk61nYJzCA8
+
+Utilización de las siguientes librerias de las cuales instalamos con el npm
+npm i bootstrap reactstrap axios
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/react-fontawesome
+npm i --save @fortawesome/fontawesome-svg-core
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Implementacion del map de una forma distinta del video que estamos siguiendo
+ademas de usar una pagina de datos de tipo json la cual pueden consultar en App.js del codigo
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
